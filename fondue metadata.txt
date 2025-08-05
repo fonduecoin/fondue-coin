@@ -1,0 +1,38 @@
+{
+  "name": "Fondue Coin",
+  "symbol": "FOND",
+  "description": "The cult of cheese is real. $FOND is a meme-fueled, community-powered token melting Web3 with fun, games, and good vibes.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreic6wryhngmhgsrigtnrcaaqskplqxuplwtyv3alb36yryfc7nbdgm",
+  "external_url": "https://thefonduecoin.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Flavor",
+      "value": "Melted Madness"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Cult-Like Fun"
+    }
+  ],
+  "collection": {
+    "name": "Fondue Ecosystem",
+    "family": "Fondueverse"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreic6wryhngmhgsrigtnrcaaqskplqxuplwtyv3alb36yryfc7nbdgm",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address":
+"A3GCAAwFxAUgx97j9uw8Vkf8MaFqUut2tsyAXq9Cpump",
+        "share": 100
+      }
+    ]
+  }
+}
